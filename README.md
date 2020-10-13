@@ -1,4 +1,4 @@
-### Olá , eu sou Rodrigo 👋
+### Olá , eu sou Rodrigo 👋🏾
 
 ### Developer e Software Engineer
 
