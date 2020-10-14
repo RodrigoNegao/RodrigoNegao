@@ -37,6 +37,8 @@
 [<img align="left" alt="AWS" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />]()
 [<img align="left" alt=".NET" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" />]()
 
+<br/>
+
 ### Quero Aprender:
 
 [<img align="left" alt="Unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />]()
