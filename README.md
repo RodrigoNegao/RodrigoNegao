@@ -1,5 +1,7 @@
 ### Olá , eu sou Rodrigo 👋🏾
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigonegao&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigonegao" /> </p>
+
 ### Developer e Software Engineer
 
 - 📚 Sempre estou estudando sobre novas Tecnologias;
@@ -16,8 +18,11 @@
 
 <br />
 
-### Linguagens e Ferramentas que eu gosto:
+### Linguagens,Frameworks e Ferramentas que eu gosto:
 
+[<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="22" height="22"/>]()
+[<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" alt="django" width="22" height="22"/>]()
+[<img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="django" width="22" height="22"/>]()
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
