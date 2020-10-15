@@ -16,7 +16,13 @@
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](http://bit.ly/NegaoIG)
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mail-dot-ru.svg" />](mailto:rp.develop.app@gmail.com)
 
-<br />
+<br/>
+
+### Outros Repositórios:  
+[Expo](https://expo.io/@rodrigonegao)
+[BitBucket](https://bitbucket.org/rodrigonegao)
+
+<br/>
 
 ### Linguagens,Frameworks e Ferramentas que eu gosto:
 
@@ -42,6 +48,7 @@
 ### Quero Aprender:
 
 [<img align="left" alt="Unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />]()
+
 
 <br/>
 <br/>
