@@ -21,9 +21,7 @@
 ### Outros Repositórios:
 
 [Expo](https://expo.io/@rodrigonegao)
-
 [BitBucket](https://bitbucket.org/rodrigonegao)
-
 <br/>
 
 ### Linguagens,Frameworks e Ferramentas que eu gosto:
