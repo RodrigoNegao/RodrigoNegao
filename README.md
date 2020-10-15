@@ -18,8 +18,10 @@
 
 <br/>
 
-### Outros Repositórios:  
+### Outros Repositórios:
+
 [Expo](https://expo.io/@rodrigonegao)
+
 [BitBucket](https://bitbucket.org/rodrigonegao)
 
 <br/>
