@@ -24,7 +24,7 @@
 [BitBucket](https://bitbucket.org/rodrigonegao)
 <br/>
 
-### Linguagens,Frameworks e Ferramentas que eu gosto:
+<!-- ### Linguagens,Frameworks e Ferramentas que eu gosto:
 
 [<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="22" height="22"/>]()
 [<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" alt="django" width="22" height="22"/>]()
@@ -41,13 +41,13 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />]()
 [<img align="left" alt="AWS" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />]()
-[<img align="left" alt=".NET" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" />]()
+[<img align="left" alt=".NET" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" />]() -->
 
-<br/>
+<!-- <br/>
 
 ### Quero Aprender:
 
-[<img align="left" alt="Unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />]()
+[<img align="left" alt="Unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />]() -->
 
 
 <br/>
